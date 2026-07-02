@@ -19,7 +19,7 @@ Actualmente se incluye el logo de **COMSATEL**, el cual puede ser utilizado en d
 
 | Archivo | Descripción |
 |---|---|
-| `Logo_Comsatel.png` | Logo oficial de COMSATEL en formato PNG |
+| `Logo_Comsatel` | Logo oficial de COMSATEL en formato PNG con diversos estilos|
 
 ## Cómo usar el logo en HTML
 
