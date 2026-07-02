@@ -21,7 +21,7 @@ Actualmente se incluye el logo de **COMSATEL**, el cual puede ser utilizado en d
 |---|---|
 | `Logo_Comsatel` | Logo oficial de COMSATEL en formato PNG con diversos estilos|
 
-## Cómo usar el logo en HTML
+## Cómo usar el logo en HTML (EJEMPLO)
 
 Puedes usar el logo directamente en una plantilla HTML de esta manera:
 
